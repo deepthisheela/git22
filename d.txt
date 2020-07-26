@@ -1,4 +1,2 @@
 learning forth fil
 
-helo everyone
-testing

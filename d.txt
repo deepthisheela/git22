@@ -1,7 +1,2 @@
 learning forth fil
 
-helo everyon
-
-testing
-coding
-
